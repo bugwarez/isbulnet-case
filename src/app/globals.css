@@ -120,3 +120,10 @@
     @apply bg-background text-foreground;
   }
 }
+
+/* Additional utility classes for proper centering */
+.container {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
